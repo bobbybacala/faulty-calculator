@@ -1,0 +1,35 @@
+.text-center {
+    text-align: center;
+}
+
+.bg-yellowgreen {
+    background-color: rgb(229, 121, 184);
+}
+
+.m-auto {
+    margin: auto;
+    /* text-align: center; */
+}
+
+.container {
+    padding: 10px 0;
+    border-radius: 20px;
+    border: solid 1px black;
+    max-width: 300px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-box {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.percent{
+    color: red;
+}
